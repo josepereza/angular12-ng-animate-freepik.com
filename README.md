@@ -2,6 +2,11 @@
 ## Recursos
 * https://github.com/jiayihu/ng-animate
 * https://www.freepik.com/
+## Otros recursos de interes
+* https://undraw.co/
+* https://www.figma.com
+* https://getwaves.io/
+* https://www.shapedivider.app/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 ![images](nganimate.png)
 ## Development server
