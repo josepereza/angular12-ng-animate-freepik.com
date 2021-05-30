@@ -1,5 +1,7 @@
 # Personas2
-
+## Recursos
+* https://github.com/jiayihu/ng-animate
+* https://www.freepik.com/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
 
 ## Development server

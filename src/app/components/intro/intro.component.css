@@ -1,0 +1,26 @@
+.layout1{
+    height: 100vh;
+    background-image: url(../../../assets/images/fondo1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.portada{
+    margin-left: 15%;
+    color: white;
+}
+a{
+    color:white;
+    padding: 10px 30px;
+    font-size: 1.3rem;
+    border: solid 3px white;
+    border-radius: 18px;
+    text-decoration: none;
+}
+a:hover {
+    background-color: blueviolet;
+}
+h1 {
+    font-size: 3em;
+}
